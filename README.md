@@ -1,1 +1,1 @@
-# NLP_workshop_HuggingFace
+# NLP workshop HuggingFace with Spain AI
